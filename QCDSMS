@@ -1,0 +1,23 @@
+Quick Commerce Dark Store Management System (QCDSMS)
+
+📌 Overview
+The Quick Commerce Dark Store Management System (QCDSMS) is a Flask-based cloud solution designed to optimize 
+dark store operations through enhanced inventory management, automated order processing, and efficient logistics coordination. 
+The system ensures:
+-Real-time stock visibility
+-Seamless order fulfillment
+-Last-mile delivery tracking
+
+🛠️ Tools & Technologies Used
+Development Stack
+-Programming Language: Python (Flask)
+-Database: SQLite
+-Frontend: HTML, CSS (Jinja2 Templates)
+-Version Control: Git & GitHub
+-Deployment Platform (Planned): AWS / Heroku
+-Testing Framework: Pytest  
+
+📦 Package Dependencies
+The project requires the following packages:
+bash
+pip install flask sqlite3
